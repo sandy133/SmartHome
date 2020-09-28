@@ -19,5 +19,10 @@ void loop() {
  delay(500);
   
   }
-
+  else{
+    digitalWrite(12, LOW);
+    digitalWrite(11, LOW);
+  }
 }
+    
+  
